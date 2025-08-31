@@ -141,7 +141,6 @@ How to turn technical setbacks into reusable learning resources
 How to design for trust, transparency, and privacy in UX
 
 🚀 What's Next for AnonymousDoc AI
-Add drag-and-drop support and mobile responsiveness
 
 Expand entity detection with multilingual models and OCR for image-based PDFs
 
