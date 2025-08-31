@@ -78,6 +78,3 @@ Integrate with secure cloud storage for document retention and audit trails
 
 
 
-“I led the frontend development and integration for AnonymousDoc AI, a privacy-first document redaction tool designed for hackathon deployment and teaching use. I started by scaffolding a vanilla JS prototype, then migrated to React + TypeScript to ensure modularity and long-term maintainability. I built reusable components like UploadZone for drag-and-drop file handling, ProgressBar for real-time feedback, and PreviewPane for redaction visualization.”
-
-“On the integration side, I connected the frontend to a FastAPI backend using FormData and streaming responses, which allowed for efficient PDF parsing and redaction previews. I troubleshot CORS issues, async workflows, and multipart file handling — and documented each fix as reusable checklists and flashcards for future learners.”
